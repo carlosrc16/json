@@ -1,0 +1,18 @@
+{"equipos":
+            [
+            {
+               "nombre": "equipo1",
+               "puntos": [1023, 478, 650, 861, 639],
+               "total": 8982 
+            },
+            {
+               "nombre": "equipo2",
+               "puntos": [599, 853, 835, 729, 773],
+               "total": 8462 
+            },
+            {
+               "nombre": "equipo3",
+               "puntos": [810, 589, 604, 566, 612],
+               "total": 8982 
+            }
+            ]}
